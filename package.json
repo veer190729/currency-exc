@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Hello ReadMe",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veer190729/currency-exc.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ranvir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veer190729/currency-exc/issues"
+  },
+  "homepage": "https://github.com/veer190729/currency-exc#readme"
+}
